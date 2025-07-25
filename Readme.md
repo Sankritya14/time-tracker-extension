@@ -62,7 +62,7 @@ MongoDB + Mongoose
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/time-tracker-extension.git
+git clone https://github.com/Sankritya14/time-tracker-extension.git
 cd time-tracker-extension
 🔹 2. Start the backend
 bash
